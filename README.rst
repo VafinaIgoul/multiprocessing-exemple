@@ -1,0 +1,1 @@
+Пример работы бибилиотеки python multiprocessing
